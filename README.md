@@ -1,2 +1,2 @@
-# New project
-This project was created by local system
+# Simon Says game
+The objective of Simon was simple: the game displayed a sequence using 4 lighted buttons, each with a unique musical note. The player's task was to repeat from memory the sequence the game had just played.
